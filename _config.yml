@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: "instagram-scraper, door-sensor, esp32_htu21d, TheTh1rd, personal-website"
+    projects: "instagram-scraper, door-sensor, esp32_htu21d, TheTh1rd, personal-website,TheTh1rd.github.io"
     # projects: "door-sensor"
     # projects: "esp32_htu21d"
     # - repo-name
