@@ -9,6 +9,12 @@
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
   {{ user.bio }}
 </p>
+<div class="f4 mb-6">
+  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/">Home</a>
+  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/about/">About</a>
+  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/contact/">Contact</a>
+</div>
+
 
 {% if include.metadata %}
   <div class="f4 mb-6">
