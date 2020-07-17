@@ -10,9 +10,11 @@
   {{ user.bio }}
 </p>
 <div class="f4 mb-6">
-  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/">Home</a>
-  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/about/">About</a>
-  <a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/contact/">Contact</a>
+  <ul style= "list-style-type: none">
+    <li><a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/">Home</a></li>
+    <li><a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/about/">About</a></li>
+    <li><a class="{% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}" href="/contact/">Contact</a></li>
+  </ul>
 </div>
 
 
