@@ -3,7 +3,7 @@ layout: post
 title:  "Whats App budy - Ralph"
 date:   2020-05-03 
 categories: [projects]
-tags: twillio whatsapp ruby gems nasa chatbot bot
+tags: twilio whatsapp ruby gems nasa chatbot bot
 published: true
 ---
 I have always wanted to make a chatbot and luckily I found a helpful guide on using Twilio with WhatsApp and getting the weather forecast by sending a location.  After some initial struggles setting up the ruby environment and installing all the required gems for the project on my windows machine, I was ready to start.  
