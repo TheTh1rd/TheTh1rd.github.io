@@ -52,3 +52,17 @@
 .min-height-full {
   min-height: 100vh;
 }
+.bg-main{
+  background-color:#85DCB0 !important
+}
+.bg-alt{
+  background-color:#E8A87C !important
+}
+
+img[src~="standard"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
