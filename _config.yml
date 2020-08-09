@@ -49,9 +49,9 @@ social_media:
  # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Azure
+    web_url: https://github.com/Azure
+    image_url: https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_400x400.jpg
 
   - name: Photograpghy
     web_url: https://photographylife.com/what-is-photography
